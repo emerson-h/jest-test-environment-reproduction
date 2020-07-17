@@ -1,0 +1,12 @@
+{
+  "name": "min-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "waait": "^1.0.5"
+  }
+}
